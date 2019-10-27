@@ -1,4 +1,4 @@
-package tatiana.pchelinceva.procedural.lecture2.part1;
+package tatiana.pchelintseva.procedural.lecture2.part1;
 
 import java.util.Arrays;
 

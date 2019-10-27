@@ -1,4 +1,4 @@
-package tatiana.pchelinceva.procedural.lecture2.part1;
+package tatiana.pchelintseva.procedural.lecture2.part1;
 
 public class App10 {
     public static void main(String[] args) {
