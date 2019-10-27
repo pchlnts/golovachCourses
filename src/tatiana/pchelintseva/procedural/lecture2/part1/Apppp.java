@@ -7,6 +7,7 @@ public class Apppp {
                 System.out.print(i==j?"+":"-");
             }
             System.out.println();
+            //pushhhhh
         }
     }
 }
