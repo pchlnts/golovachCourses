@@ -10,7 +10,7 @@ public class App3 {
         IntHolder x = new IntHolder(0);
         IntHolder y = x;
         x.value = 1;
-        System.out.println("x.value: " + x.value);
-        System.out.println("y.value: " + y.value);
+        System.out.println("x.value: " + x.value);      //Here would be 1
+        System.out.println("y.value: " + y.value);      //Here would be 1
     }
 }
