@@ -7,7 +7,7 @@ public class App2 {
         int[] x = {0, 1, 2};
         int[] y = x;
         x[0] = 10;
-        System.out.println("x=" + Arrays.toString(x));
-        System.out.println("y=" + Arrays.toString(y));
+        System.out.println("x=" + Arrays.toString(x));      //Here would be 10, 1, 2
+        System.out.println("y=" + Arrays.toString(y));      //Here would be 10, 1, 2
     }
 }

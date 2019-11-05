@@ -5,7 +5,7 @@ public class App01 {
         int x = 0;
         int y = x;
         x = 1;
-        System.out.println("x=" + x);
-        System.out.println("y=" + y);
+        System.out.println("x=" + x);          //Here would be 1
+        System.out.println("y=" + y);           //And Here would be 0 ??? yes?
     }
 }
