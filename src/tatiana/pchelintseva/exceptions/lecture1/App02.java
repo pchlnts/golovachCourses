@@ -15,6 +15,7 @@ public class App02 {
 //            if (true) break;             //больше не выполняем цикл
 //            if (true) return;            // инструкция выхода из метода в соответстивии с типом возвращаемых данных
 //            if (true) throw new Error(); // не ломает метод main
+            ///ю
             System.err.print(2);
         }
     }

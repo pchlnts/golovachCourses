@@ -16,5 +16,6 @@ public class App01 {
             throw new IllegalArgumentException("a < 0 || b < 0 == true");
         }
         return a * b;
+        //л
     }
 }
